@@ -1,8 +1,8 @@
 {
-  "ip": "mcborder.com",
+  "ip": "orancraft.net",
   "port": 25565,
   "version": "1.21.8",
-  "username": "YourBotMicrosoftAccount@email.com",
+  "username": "YourBotMicrosoftAccountname",
   "auth": "microsoft",
   "language": "zh-tw",
   "whitelist": [
