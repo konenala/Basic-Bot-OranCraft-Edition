@@ -1,0 +1,13 @@
+{
+  "ip": "mcborder.com",
+  "port": 25565,
+  "version": "1.21.8",
+  "username": "YourBotMicrosoftAccount@email.com",
+  "auth": "microsoft",
+  "language": "zh-tw",
+  "whitelist": [
+    "ID1",
+    "ID2"
+  ],
+  "moneyTransferTarget": "ID1"
+}
